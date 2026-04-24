@@ -44,7 +44,7 @@ To reduce manual effort in auditing by automatically identifying transaction typ
 |------------------------|-------|
 | ATM Withdrawal         | Cash Withdrawal |
 | Salary Credit          | Income |
-| Amazon Purchase        | Shopping |
+| Purchase               | Shopping |
 
 
 ## 🎥 Demo Video
